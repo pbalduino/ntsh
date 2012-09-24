@@ -98,6 +98,21 @@ header a:hover {
 	background: url("../images/cardboard_flat.png");
 }
 
+.contact label {
+	width: 15em;
+	display: block;
+}
+
+.contact input[type="text"] {
+	margin-bottom: 1em;
+	height: 1.5em;
+	width: 100%;
+}
+
+.contact textarea {
+	width: 100%;
+}
+
 @media handheld, only screen and (min-width: 801px) {
 	.page {
 		padding-top: 4em;
