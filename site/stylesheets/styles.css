@@ -1,0 +1,81 @@
+/* ============================== */
+/* ! Layout for desktop version   */
+/* ============================== */
+
+@font-face {
+	font-family: Aller;
+	src: url("../fonts/Aller_Lt.ttf");
+}
+
+body {
+	font-size: 100%;
+	font-family: Aller, Helvetica, Arial, sans-serif;
+	line-height: 1.5em;
+}
+
+header {
+	background: #ccc;
+	border-bottom: 4px #FF1D1F solid;
+	padding: 7px 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+	vertical-align: middle;
+	opacity: 0.9;
+}
+
+img.logo {
+	height: 1.5em;
+}
+
+header a {
+	color: #333;
+	text-decoration: none;
+}
+
+header a:hover {
+	color: #666;
+	text-decoration: underline;
+}
+
+.content {
+	margin-top: 3em;
+}
+
+/* ============================= */
+/* ! Layout for mobile version   */
+/* ============================= */
+
+@media handheld, only screen and (max-width: 767px) {
+
+	body {
+		
+	}
+
+	header {
+		position: relative;
+		opacity: 1;
+	}
+
+	header div {
+		text-align: center;
+	}
+
+	.content {
+		margin-top: 0;
+	}
+}
+
+/* ========================================== */
+/* ! Provide higher res assets for iPhone 4   */
+/* ========================================== */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) { 
+
+/*	.logo {
+		background: url(logo2x.jpg) no-repeat;
+		background-size: 212px 303px;
+	}*/
+
+}

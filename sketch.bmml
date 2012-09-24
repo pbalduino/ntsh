@@ -1,0 +1,78 @@
+<mockup version="1.0" skin="sketch" measuredW="1270" measuredH="727" mockupW="1100" mockupH="700">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="170" y="27" w="1100" h="700" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>meh%0Ahttp%3A//www.meh.com.br/</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="176" y="96" w="1088" h="94" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="176" y="625" w="1086" h="73" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Link" x="240" y="661" w="-1" h="-1" measuredW="37" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>a%20link</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="240" y="111" w="215" h="65" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="605" y="199" w="241" h="33" measuredW="212" measuredH="33" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>3355443</color>
+        <size>24</size>
+        <text>Um%20t%EDtulo%20chamativo</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Paragraph" x="240" y="232" w="953" h="98" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Bacon%20ipsum%20dolor%20sit%20amet%20sausage%20pork%20belly%20sirloin%20turducken%2C%20short%20loin%20turkey%20pig%20shoulder%20andouille%20hamburger.%20Pork%20frankfurter%20ground%20round%2C%20boudin%20tenderloin%20meatloaf%20brisket%20tri-tip%20andouille%20meatball%20shank%20turducken%20ball%20tip.%20Hamburger%20shoulder%20spare%20ribs%20biltong%2C%20strip%20steak%20jerky%20beef%20rump%20leberkas.%20Tri-tip%20jowl%20fatback%20flank%20frankfurter%20spare%20ribs%20ground%20round%20shoulder%20kielbasa%20turducken%20hamburger.%20Hamburger%20pork%20chop%20beef%20ribs%20shoulder%2C%20corned%20beef%20tenderloin%20prosciutto%20cow%20short%20ribs%20pork%20shankle%20tail%20biltong.%20Hamburger%20pancetta%20ham%20drumstick%20pastrami%20flank%20bresaola%20tenderloin.</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::CoverFlow" x="489" y="337" w="463" h="146" measuredW="493" measuredH="198" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::LinkBar" x="956" y="156" w="-1" h="-1" measuredW="244" measuredH="20" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <size>12</size>
+        <text>Home%2C%20How%20it%20works%2C%20Sign%20in%2C%20Sign%20up</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Canvas" x="240" y="96" w="960" h="602" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Link" x="548" y="661" w="-1" h="-1" measuredW="37" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>a%20link</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Link" x="855" y="661" w="-1" h="-1" measuredW="37" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>a%20link</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Link" x="1163" y="661" w="-1" h="-1" measuredW="37" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>a%20link</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
