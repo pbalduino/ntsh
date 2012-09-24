@@ -84,6 +84,16 @@ header a:hover {
 	color: #33a;
 }
 
+.social {
+	vertical-align: middle;
+	height: 2em;
+}
+
+.social img {
+	padding-right: 0.5em;
+	height: 1em;
+}
+
 @media handheld, only screen and (min-width: 801px) {
 	.page {
 		padding-top: 4em;
