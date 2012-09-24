@@ -11,6 +11,8 @@ body {
 	font-size: 100%;
 	font-family: Aller, Helvetica, Arial, sans-serif;
 	line-height: 1.5em;
+	color: #333;
+	text-shadow: 0.1em 0.1em 0.1em #eee;
 }
 
 header {
@@ -25,8 +27,20 @@ header {
 	opacity: 0.9;
 }
 
-img.logo {
+img.small-logo {
 	height: 1.5em;
+}
+
+.big-logo, .responsive {
+	text-align: center;
+}
+
+.big-logo img {
+	width: 40em; /* 640 / 16 = 40 */
+}
+
+.responsive img {
+	height: 18em; /* 300 / 16 = 18 */
 }
 
 header a {
@@ -39,8 +53,29 @@ header a:hover {
 	text-decoration: underline;
 }
 
-.content {
-	margin-top: 3em;
+.page {
+	padding-top: 4em;
+	min-height: 500px;
+}
+
+.first {
+	padding-top: 5em;
+}
+
+.footer {
+	height: 300px;
+}
+
+.slogan {
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.motto {
+	text-align: center;
+	font-weight: bold;
+	color: #33a;
 }
 
 /* ============================= */
@@ -62,7 +97,7 @@ header a:hover {
 		text-align: center;
 	}
 
-	.content {
+	.first, .page {
 		margin-top: 0;
 	}
 }
